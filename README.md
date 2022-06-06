@@ -9,7 +9,7 @@ This repository contains the code and data for the Graph Polynomial Convolution 
 
 ## Data
 
-We used two sources for node-calssification data. The well known datasets Cora, Citeseer,... datasets are from [1]. We also used the recently published non-homopuilous data from [2] and [3]. We converted the non-homogenous datasets from [2] and [3] to a convenient .pt format that is available in the newdata_split folder. 
+We used two sources for node-calssification data. The well known datasets Cora, Citeseer,... datasets are from [1]. We also used the recently published non-homopuilous data from [2] and [3]. We converted the non-homogenous datasets from [2] and [3] to a convenient .pt formats that are available in the newdata_split folder. 
 
 ## Experiments
 
