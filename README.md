@@ -16,7 +16,12 @@ We used two sources for node-calssification data. The well known datasets Cora, 
 Use old_data.sh to run the experiment for data from [1]. The new_data.sh contains the experimental setup for the non-homogenous data fron [2] and [3].
 
 
+## Paper
 
+Kishan Wimalawarne and Taiji Suzuki, "Graph Polynomial Convolution Models for Node Classification of Non-Homophilous Graphs"
+
+
+## References
 
 [1] Pei et al., 2020] Pei, H., Wei, B., Chang, K. C., Lei, Y., and Yang, B. (2020). Geom-gcn: Geometric graph convolutional networks. In ICLR 2020, ICLR’20.
 
